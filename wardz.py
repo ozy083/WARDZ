@@ -28,35 +28,35 @@ print("""
 \033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m[ %s Start Bot ]\033[0m    
 """%(Bot_startTime))
 cl = LINE('')
-cl.log("Auth Token : " + str(cl.authToken))
+cl.log("Auth Token : "authtoken-ente"))
 channelToken = cl.getChannelResult()
 #========================Token1===================================================#
 ka = LINE('')
-ka.log("Auth Token : " + str(ka.authToken))
+ka.log("Auth Token : "authtoken-ente"))
 channelToken = ka.getChannelResult()
 #========================Token2===================================================#
 kb = LINE('')
-kb.log("Auth Token : " + str(kb.authToken))
+kb.log("Auth Token : "authtoken-ente))
 channelToken = kb.getChannelResult()
 #========================Token3===================================================#
 kc = LINE('')
-kc.log("Auth Token : " + str(kc.authToken))
+kc.log("Auth Token : "authtoken-ente))
 channelToken = kc.getChannelResult()
 #========================Token4===================================================#
 kd = LINE('')
-kd.log("Auth Token : " + str(kd.authToken))
+kd.log("Auth Token : "authtoken-ente"))
 channelToken = kd.getChannelResult()
 #========================Token5===================================================#
 ke = LINE('')
-ke.log("Auth Token : " + str(ke.authToken))
+ke.log("Auth Token : "authtoken-ente"))
 channelToken = ke.getChannelResult()
 #========================Token6===================================================#
 kf = LINE('')
-kf.log("Auth Token : " + str(kf.authToken))
+kf.log("Auth Token : "authtoken-ente"))
 channelToken = kf.getChannelResult()
 #========================Tokenjs===================================================#
 ajs = LINE('')
-ajs.log("Auth Token : " + str(kf.authToken))
+ajs.log("Auth Token : "authtoken-ente"))
 channelToken = ajs.getChannelResult()
 #==============•••••••••••••••••   BOT WAR V`1 BY TEAM BOT PROTECT •••••••••••••••==============#
 print("""\033["""+str(randint(0,1))+""";"""+str(randint(31,36))+"""m
@@ -288,18 +288,18 @@ team4=[ka,kc,kd,ke,kf]
 team5=[ka,kb,kd,ke,kf]
 team6=[ka,kb,kc,ke,kf]
 team7=[ka,kb,kc,kd,kf]
-mid = cl.getProfile().mid
-Amid = ka.getProfile().mid
-Bmid = kb.getProfile().mid
-Cmid = kc.getProfile().mid
-Dmid = kd.getProfile().mid
-Emid = ke.getProfile().mid
-Fmid = kf.getProfile().mid
-JSmid = ajs.getProfile().mid
+mid = cl.getProfile().u38a0db46c15e8d89726abd2ecb2c8148
+Amid = ka.getProfile().u261ccc50a1817e83dc8674e8068057d6
+Bmid = kb.getProfile().ucaa9f4b74ef5787a043a7ec058719393
+Cmid = kc.getProfile().u9ac2dd61652b0c4fb936a0772e2e9c22
+Dmid = kd.getProfile().u70d809f5c40dcf104fff9fa78a3a0f8e
+Emid = ke.getProfile().udc4c2ece581327a92ca7808e1b035cd2
+Fmid = kf.getProfile().u97d47d6b9f8c2a39cbbdf4cb089fd036
+JSmid = ajs.getProfile().u66c32317d7e3142b82c007eb53626c72
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid]
-ownerbot = ["ub1c5a71f27b863896e9d44bea857d35b"]
-DHENZA = ["ub1c5a71f27b863896e9d44bea857d35b"]
-TEAM = Bots+ownerbot+DHENZA
+ownerbot = ["u38a0db46c15e8d89726abd2ecb2c8148"]
+DHENZA = ["u261ccc50a1817e83dc8674e8068057d6"]
+TEAM = Bots+ownerbot+zy
 msg_dict = {}
 msg_dict1 = {}
 #==============[ Main Json ]==============#
@@ -652,7 +652,7 @@ def helpbot():
     helpMessage2 += "│┃ " + "├──────────────\n"
     helpMessage2 += "│┃ " + "╰──⍟ ᴛᴇᴀᴍ ʙᴏᴛ ᴘʀᴏᴛᴇᴄᴛ ⍟────────\n"
     helpMessage2 += "╰━━━━━━━━━━━━━━━━"
-    helpMessage2 += " My ID LINE : 〘 https://line.me/ti/p/~teambotprotect 〙\n"
+    helpMessage2 += " My ID LINE : [https://line.me/ti/p/aDKJL3ZEky]\n"
     return helpMessage2
 
 def bot(op):
